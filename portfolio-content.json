@@ -1,0 +1,165 @@
+{
+  "profile": {
+    "name": "Dileep Kumar N",
+    "title": "Senior Software Engineer",
+    "location": "Bengaluru, Karnataka, India",
+    "yearsExperience": "04",
+    "apisDelivered": "15+",
+    "prototypesBuilt": "01",
+    "email": "mailto:dileepkumarn224@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/dileepkumarn224/",
+    "github": "https://github.com/dileepkumarn2240"
+  },
+  "experience": [
+    {
+      "organization": "LTM",
+      "title": "Senior Software Engineer",
+      "location": "Bengaluru, India",
+      "period": "September 2022 – Present",
+      "source": "resume",
+      "achievements": [
+        "Developed 15+ production REST APIs for service provisioning, network configuration, and operational workflows on a live optical-networking product.",
+        "Automated repetitive manual deployment activities using Jenkins and Shell scripting, reducing manual intervention in releases.",
+        "Worked across deployment, testing coordination, production support, and application/database/deployment troubleshooting.",
+        "Supported junior engineers with optical-networking domain context and problem-solving."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "RentSafe",
+      "type": "Independent rental-management product prototype",
+      "status": "Working prototype; no verified public deployment",
+      "repository": "https://github.com/dileepkumarn2240/RentSafe",
+      "sourceVisibility": "public",
+      "webStack": [
+        "React 19",
+        "TypeScript",
+        "Vite",
+        "Spring Boot 3",
+        "Java 17",
+        "JPA/Hibernate",
+        "PostgreSQL",
+        "H2 (development)",
+        "JWT"
+      ],
+      "androidStack": [
+        "Kotlin",
+        "Jetpack Compose",
+        "MVVM",
+        "Clean Architecture",
+        "Supabase",
+        "PostgreSQL / RLS"
+      ],
+      "androidRepositoryVisibility": "private",
+      "scope": [
+        "Tenant management",
+        "Rent and utility tracking",
+        "Maintenance",
+        "Property information"
+      ],
+      "source": "resume + repository README"
+    },
+    {
+      "name": "PetWorld",
+      "type": "Pet-management command-line application",
+      "status": "In progress",
+      "sourceVisibility": "private",
+      "stack": [
+        "Java",
+        "Spring Boot",
+        "Spring Data JPA",
+        "Hibernate",
+        "PostgreSQL",
+        "Maven"
+      ],
+      "documentedScope": [
+        "Owner and pet records",
+        "Domestic and wild pet models",
+        "Pagination",
+        "Average-age analytics"
+      ],
+      "documentedFutureWork": [
+        "REST API",
+        "Frontend"
+      ],
+      "source": "GitHub repository README"
+    }
+  ],
+  "skillGroups": [
+    {
+      "title": "Backend & APIs",
+      "items": [
+        "Java",
+        "Spring Boot",
+        "Microservices",
+        "REST APIs",
+        "SQL"
+      ]
+    },
+    {
+      "title": "Delivery & Operations",
+      "items": [
+        "Jenkins",
+        "Shell scripting",
+        "Git",
+        "Production troubleshooting"
+      ]
+    },
+    {
+      "title": "Frontend & Mobile",
+      "items": [
+        "React",
+        "TypeScript",
+        "Kotlin",
+        "Jetpack Compose",
+        "Supabase"
+      ]
+    },
+    {
+      "title": "AI-assisted Product Work",
+      "items": [
+        "Cursor",
+        "GitHub Copilot",
+        "Product flows",
+        "Prototype iteration"
+      ]
+    }
+  ],
+  "education": {
+    "institution": "Ramaiah Institute of Technology",
+    "location": "Bengaluru, India",
+    "degree": "Bachelor of Engineering — Electronics & Instrumentation Engineering",
+    "year": "2022"
+  },
+  "interests": [
+    "Product building",
+    "Entrepreneurship",
+    "Startups",
+    "AI",
+    "Business strategy"
+  ],
+  "assets": {
+    "portrait": "assets/dileep-kumar.png",
+    "resume": "assets/Dileep_Kumar_N_Resume.pdf"
+  },
+  "certifications": [
+    {
+      "title": "Generative AI Mastermind",
+      "issuer": "Outskill",
+      "file": "outskill-generative-ai-mastermind",
+      "date": null,
+      "pdf": "./assets/certificates/outskill-generative-ai-mastermind.pdf",
+      "preview": "./assets/certificates/outskill-generative-ai-mastermind.jpg"
+    },
+    {
+      "title": "AI For Developers With GitHub Copilot, Cursor AI & ChatGPT",
+      "issuer": "Udemy",
+      "file": "udemy-ai-for-developers",
+      "date": "2026-05-27",
+      "duration": "8 total hours",
+      "pdf": "./assets/certificates/udemy-ai-for-developers.pdf",
+      "preview": "./assets/certificates/udemy-ai-for-developers.jpg"
+    }
+  ]
+}
